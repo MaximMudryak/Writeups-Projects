@@ -1,4 +1,4 @@
-# Writeups
+# Writeups & Projects
 
 A collection of writeups, notes, and personal lab projects covering CTF challenges and security experiments (TryHackMe, HackTheBox, and others).
 
